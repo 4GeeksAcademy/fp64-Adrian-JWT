@@ -1,0 +1,8 @@
+###
+
+POST https://sturdy-umbrella-57ww7q5497v27rqq-3001.app.github.dev/api/login
+    Content-Type : application/json
+    {
+        "email": "adrian@adrian.com"
+        "password": "1234"
+    }
